@@ -1,0 +1,489 @@
+{
+	"formatVersion": 1,
+	"content": {
+		"parent": "",
+		"remote_parent": "\u00a72GreenWood",
+		"files": {
+			"/dynamicmcpack.json": {
+				"hash": "34e5979c33c85dcd6cbfc9fdbef426fa1dbdfeec"
+			},
+			"/pack.mcmeta": {
+				"hash": "2c008c2aed71947618645cffb5dfaa30376c3005"
+			},
+			"/pack.png": {
+				"hash": "2108f7c4c010c7384bbafc62fc65189c30f9c6a7"
+			},
+			"/assets/minecraft/optifine/emissive.properties": {
+				"hash": "577d89738e60ebfbf2dbbdd5b2ff2c3400933a10"
+			},
+			"/assets/minecraft/optifine/cit/bunker/auto/auto.json": {
+				"hash": "b0de2edfe859ca19e35f9819ac00921cfed96b16"
+			},
+			"/assets/minecraft/optifine/cit/bunker/auto/auto.png": {
+				"hash": "47165c02954027aedfa50ebd1808e080e05650d1"
+			},
+			"/assets/minecraft/optifine/cit/bunker/auto/auto.properties": {
+				"hash": "474342c56cc716fd8c266bf834c16db6afe1a6e3"
+			},
+			"/assets/minecraft/optifine/cit/bunker/backpack/backpack.json": {
+				"hash": "0b3a200f5e90682c7d8da60e8ba57e2690d467f8"
+			},
+			"/assets/minecraft/optifine/cit/bunker/backpack/backpack.png": {
+				"hash": "0d0b4ffe4d9f1d6a32f21bae1fe80db2d6b3b4bb"
+			},
+			"/assets/minecraft/optifine/cit/bunker/backpack/backpack.properties": {
+				"hash": "1a3946281b78c1f34580e32c288d5670c2537be2"
+			},
+			"/assets/minecraft/optifine/cit/bunker/card/card.json": {
+				"hash": "655a1e3ed1f35076fe9050cb8519b62adbe52714"
+			},
+			"/assets/minecraft/optifine/cit/bunker/card/card.png": {
+				"hash": "f606b006ce43d4d32d3f96ea31c692743a6d1c9b"
+			},
+			"/assets/minecraft/optifine/cit/bunker/card/card.properties": {
+				"hash": "4380f688fcec85381fa9cf21edf4fc105b997329"
+			},
+			"/assets/minecraft/optifine/cit/bunker/posox/posox.json": {
+				"hash": "f2ba970f5c31652184714ae1ecf6699bf93e62bf"
+			},
+			"/assets/minecraft/optifine/cit/bunker/posox/posox.png": {
+				"hash": "e0b12a5b7cbba4066e90b73ef6138cc0d885625b"
+			},
+			"/assets/minecraft/optifine/cit/bunker/posox/posox.properties": {
+				"hash": "0103d2d9016de6cc90e3f18956126a8f1c64890c"
+			},
+			"/assets/minecraft/optifine/cit/hats/dog/dog.json": {
+				"hash": "f51b77b1d05c0863170328a309fc065cc8dadff9"
+			},
+			"/assets/minecraft/optifine/cit/hats/dog/dog.png": {
+				"hash": "27f9c226c1ad333c32198a0252b356d5cae8e7c4"
+			},
+			"/assets/minecraft/optifine/cit/hats/dog/dog.properties": {
+				"hash": "52708156a949c1509de48cef203d7391c5ed0cb9"
+			},
+			"/assets/minecraft/optifine/cit/hats/snejik/snejik.json": {
+				"hash": "f7862b26de8ec2ec68bc875da4be55b334504c3d"
+			},
+			"/assets/minecraft/optifine/cit/hats/snejik/snejik.png": {
+				"hash": "a0df82503bd332bd4c79b1d891bc8e2bdac5a875"
+			},
+			"/assets/minecraft/optifine/cit/hats/snejik/snejik.properties": {
+				"hash": "c558e15302c97ebee306d9896173f93becd74241"
+			},
+			"/assets/minecraft/optifine/cit/mafia/doctor/doctor.png": {
+				"hash": "3382f3b4b360825d089ccf914d1a63c991e3eb1e"
+			},
+			"/assets/minecraft/optifine/cit/mafia/doctor/doctor.properties": {
+				"hash": "5e7f28ca74da0dd858a8d91b5bd17020ddeaf412"
+			},
+			"/assets/minecraft/optifine/cit/mafia/mafia/mafia.png": {
+				"hash": "2e75166332cf0191e0a42df94fd0d0c749759d84"
+			},
+			"/assets/minecraft/optifine/cit/mafia/mafia/mafia.properties": {
+				"hash": "9f8d181ba2225fa75bccbb3bb4e875af879a4c3d"
+			},
+			"/assets/minecraft/optifine/cit/mafia/sherif/sherif.png": {
+				"hash": "dfc2523daac4fd2358b8157cfeebdc00d604d59d"
+			},
+			"/assets/minecraft/optifine/cit/mafia/sherif/sherif.properties": {
+				"hash": "17e43c98d6e5b3048f65c323c91a1bb79c83ed3a"
+			},
+			"/assets/minecraft/optifine/cit/mafia/village/village.png": {
+				"hash": "1d0a727b431ef6d97c9d73c48c96f2105a234d0c"
+			},
+			"/assets/minecraft/optifine/cit/mafia/village/village.properties": {
+				"hash": "330f0d4dfc1cb2c7fb986f3665ecab7194c386dd"
+			},
+			"/assets/minecraft/optifine/cit/posters/chbd/chbd.json": {
+				"hash": "2a5c918a1316535f17db37c33d119e4cf17e5c5d"
+			},
+			"/assets/minecraft/optifine/cit/posters/chbd/chbd.png": {
+				"hash": "53d481fdf5c58f04b71c2cf45f6d7cae893bfd84"
+			},
+			"/assets/minecraft/optifine/cit/posters/chbd/Chbd.properties": {
+				"hash": "d68122363108172f278687bd8fa7b48a5a369b49"
+			},
+			"/assets/minecraft/optifine/cit/posters/detektivi/detektivi.json": {
+				"hash": "19fc2fb303311cf74b9999d3bd211a4ffe448907"
+			},
+			"/assets/minecraft/optifine/cit/posters/detektivi/detektivi.png": {
+				"hash": "2941d14f6b95804b0a1035e95e6290cce7970636"
+			},
+			"/assets/minecraft/optifine/cit/posters/detektivi/Detektivi.properties": {
+				"hash": "3249eb235551921e4b1fe93ee38bd085800bf630"
+			},
+			"/assets/minecraft/optifine/cit/posters/gran/gran.json": {
+				"hash": "75d0b3f29d0070f0283a3b00e5e8a5fd75027858"
+			},
+			"/assets/minecraft/optifine/cit/posters/gran/gran.png": {
+				"hash": "b4ca940e1e6515fc93774e47a257e1a504dedf44"
+			},
+			"/assets/minecraft/optifine/cit/posters/gran/Gran.properties": {
+				"hash": "99349efa9aa6a4da80320793caffab28014babc3"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/1.1.json": {
+				"hash": "ee7f3ed9e9d17d31085f3cf1b2fcfb1d7188c70d"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/1.1.png": {
+				"hash": "29175ade2481afaad9b525f435566ed2cf3580f8"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/1.1.properties": {
+				"hash": "dd5a3ab64883f87a03e5b529f59090a84173248e"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/10.10.json": {
+				"hash": "17829434e0a858f45f62b6743e75b2c26359f75e"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/10.10.png": {
+				"hash": "a5ff7501a9b49035c6eaecbe85d6ec1a8c7d850f"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/10.10.properties": {
+				"hash": "18ec700e7772966171b27f80132187c4167b6a01"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/11.11.json": {
+				"hash": "3e056960274c9b8ac188699ca3d3addcca52e3f3"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/11.11.png": {
+				"hash": "05e61f7a0163ed4c5d6d7596ff968e22ada1661f"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/11.11.properties": {
+				"hash": "9692526e9ab08d5e355d20ce6125c950b667bff1"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/12.12.json": {
+				"hash": "c660ef53b43a5ce7bfd1709e7418e781e1797ff4"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/12.12.png": {
+				"hash": "400ff5b41eca84a50f487634757e5fd43d72d763"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/12.12.properties": {
+				"hash": "8fe92a0cfac4d58d2cbfc75468d32d2b467f0c6f"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/13.13.json": {
+				"hash": "25c6ae15efd3d6a4b548e123a3a76a05b0250a97"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/13.13.png": {
+				"hash": "a79f98cdff248fb53ecadf08956f7632354b1441"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/13.13.properties": {
+				"hash": "7e632ed6ada9b7a31c10058506ed8210055836b9"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/14.14.json": {
+				"hash": "969d33b7116e5f7b514c8a1d1428ccb1f43ef7bb"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/14.14.png": {
+				"hash": "1f1617cb2bc4e045514412c984d06e1815f5bde6"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/14.14.properties": {
+				"hash": "253053d81ea5371cf3eccb8d5ebde1bcce018926"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/15.15.json": {
+				"hash": "471f6f014d2547b5ace7140aeabace0112628eea"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/15.15.png": {
+				"hash": "52405fe1896d6d258d6824a1c4e95a3da9b7d137"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/15.15.properties": {
+				"hash": "f506cf768eea262930b08a8b967b5f81b0023c64"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/16.16.json": {
+				"hash": "316c828234a2d242ae049ab28cda36ec5a0dff00"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/16.16.png": {
+				"hash": "763bb5f0017ca494b053ec65c10655afea3b7058"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/16.16.properties": {
+				"hash": "bdee829f100fb51d04aece38acfd3bb71eb7cf10"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/2.2.json": {
+				"hash": "fcd606e10b9d7eecb6171fddf40ce3b1576221fc"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/2.2.png": {
+				"hash": "2a29d871b71f4143e15ed24741b5e006f5c46610"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/2.2.properties": {
+				"hash": "60732e3ff595cd8be2a6de4e9604abfbe4f48afa"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/3.3.json": {
+				"hash": "83632a779a0920b90f066753177dfaf918f50c1d"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/3.3.png": {
+				"hash": "b5c838619c980a74633d9e1577fcbfa7c3ec869f"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/3.3.properties": {
+				"hash": "51428e452325d85a8c5eb8bab948edddc375053c"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/4.4.json": {
+				"hash": "5866c8cd2818b74f94564281b8eb6fa9efcf7a3e"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/4.4.png": {
+				"hash": "34e3dd3b9cd48469b4bcf2c451012b953c3d7e5e"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/4.4.properties": {
+				"hash": "fb2a1562565399af39e82d3e29b56585b492c0df"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/5.5.json": {
+				"hash": "2564a1e0b2d0ddd4ccc4ba2a7d1e6be18222bbd2"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/5.5.png": {
+				"hash": "71cc4d37e7845599c27b03eec2009bb5e4897919"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/5.5.properties": {
+				"hash": "f523ac8bf7e5f62321c1b4c8541bd57fe14385e8"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/6.6.json": {
+				"hash": "c1a5a79c46bab570e8c002e70569073564348221"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/6.6.png": {
+				"hash": "1a966db265191ad7feade00dd9af24297be22630"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/6.6.properties": {
+				"hash": "08ab0dd1b29a86eccb5c65dfbe6b5a9a94f12cac"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/7.7.json": {
+				"hash": "6393bd7e3347c309f2a91db0d6844f98ed4be907"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/7.7.png": {
+				"hash": "4a6d1abd45322394785b35056f8f6aa8fe75391a"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/7.7.properties": {
+				"hash": "978b5deb888ae42e8c107da97caf819c7f5d526a"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/8.8.json": {
+				"hash": "b9194cfe87f2da04d847853b377af798fad12585"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/8.8.png": {
+				"hash": "d7b83aa13755548b323b2730738216564f05645c"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/8.8.properties": {
+				"hash": "4bea20d83c8f424aaa0c1752fe008af499faad5c"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/9.9.json": {
+				"hash": "6f520b9b3420577383e669dc36fd68a84cd33442"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/9.9.png": {
+				"hash": "cdfa2a7efb67e1e56664f5e692e22da12ec6b93e"
+			},
+			"/assets/minecraft/optifine/cit/posters/okno/9.9.properties": {
+				"hash": "a6ff85592af228c3c79686967159b196720c91b9"
+			},
+			"/assets/minecraft/optifine/cit/posters/spsens/spsens.json": {
+				"hash": "5342a5e491c00abfadeda640a881d3bc08940a0a"
+			},
+			"/assets/minecraft/optifine/cit/posters/spsens/spsens.png": {
+				"hash": "01a72d820975c35195c83daebf60ec7908982f3e"
+			},
+			"/assets/minecraft/optifine/cit/posters/spsens/SPsens.properties": {
+				"hash": "959a674bb2b16e003950eae490a0d77a6c01571c"
+			},
+			"/assets/minecraft/optifine/cit/posters/vrbe/vrbe.json": {
+				"hash": "0cd4bb52ff4c8e5c578112d837b9d9eb670850fc"
+			},
+			"/assets/minecraft/optifine/cit/posters/vrbe/vrbe.png": {
+				"hash": "df23fc8564981e538828aa0436a3e9cdaac41920"
+			},
+			"/assets/minecraft/optifine/cit/posters/vrbe/Vrbe.properties": {
+				"hash": "7bae6f38d6be0346b8c5f2c3a075ca526db54fe2"
+			},
+			"/assets/minecraft/optifine/cit/posters/zera/zera.json": {
+				"hash": "2bad5eebaf55808e129cc80e71a2a83fb617cd59"
+			},
+			"/assets/minecraft/optifine/cit/posters/zera/zera.png": {
+				"hash": "051d5d76232bf7e6f341e24d9b416447edb71d12"
+			},
+			"/assets/minecraft/optifine/cit/posters/zera/Zera.properties": {
+				"hash": "c7950d68a38b854b850aa0a4cc6b37b11de07647"
+			},
+			"/assets/minecraft/optifine/cit/totems/aru_elay/aru_elay.png": {
+				"hash": "7be2b155542fd10de47a96cc2031df6c2964f74e"
+			},
+			"/assets/minecraft/optifine/cit/totems/aru_elay/aru_elay.properties": {
+				"hash": "7392be6fb8a458155eb21cf4b5d3c62ae0a92835"
+			},
+			"/assets/minecraft/optifine/cit/totems/caiman_/caiman_.png": {
+				"hash": "1ff3e3a081f1ca7becb1dc6e0108ba752472c929"
+			},
+			"/assets/minecraft/optifine/cit/totems/caiman_/caiman_.properties": {
+				"hash": "77aa9970a728c82f1af6cb0da6a20109da643ffa"
+			},
+			"/assets/minecraft/optifine/cit/totems/ch4ch/ch4ch.png": {
+				"hash": "9a39aaa1a413844a588c7908a17d3b6e7a4fa26d"
+			},
+			"/assets/minecraft/optifine/cit/totems/ch4ch/ch4ch.properties": {
+				"hash": "dce03d0e2ca4fb482650372465973191ecff2d56"
+			},
+			"/assets/minecraft/optifine/cit/totems/deylta/deylta.png": {
+				"hash": "2dd0119c4ee07cbf85393e15a34a6b1c714c597f"
+			},
+			"/assets/minecraft/optifine/cit/totems/deylta/deylta.properties": {
+				"hash": "8699ba442f0d52e1af254ef3853b749184379b7a"
+			},
+			"/assets/minecraft/optifine/cit/totems/dikonxd/dikonxd.png": {
+				"hash": "c5227c02ff08e9ae869ee979b9b885a52c2558c9"
+			},
+			"/assets/minecraft/optifine/cit/totems/dikonxd/dikonxd.properties": {
+				"hash": "65212ca233e52f816d004fc99ae1d23262719a0c"
+			},
+			"/assets/minecraft/optifine/cit/totems/elvin33/elvin33.png": {
+				"hash": "0c28af1137110a82f76e6ca0ba9c504ec9b0019d"
+			},
+			"/assets/minecraft/optifine/cit/totems/elvin33/elvin33.properties": {
+				"hash": "42ece41d90db7225ec9e4a6756d0e8f8b93eade5"
+			},
+			"/assets/minecraft/optifine/cit/totems/frezeee/frezeee.png": {
+				"hash": "aef0ede0d9862c6ef65c3beb84f0039705a16c83"
+			},
+			"/assets/minecraft/optifine/cit/totems/frezeee/frezeee.properties": {
+				"hash": "c7513317c9a8aa4e14fa59748f5b66c8aa52fa53"
+			},
+			"/assets/minecraft/optifine/cit/totems/g0lub_/g0lub_.png": {
+				"hash": "aea62c5f8037e679c1671a5c2b95c54f34a98bc3"
+			},
+			"/assets/minecraft/optifine/cit/totems/g0lub_/g0lub_.properties": {
+				"hash": "7ac19c6aef72b73d797613401c645825b9d2ab2f"
+			},
+			"/assets/minecraft/optifine/cit/totems/got_yt/got_yt.png": {
+				"hash": "d35a6e5690a3ace5d9adf1d00afded72dcc54d3b"
+			},
+			"/assets/minecraft/optifine/cit/totems/got_yt/got_yt.properties": {
+				"hash": "44d368696097b36d3a5a3b54fd2acd8b304c1b4f"
+			},
+			"/assets/minecraft/optifine/cit/totems/green_zero/green_zero.png": {
+				"hash": "7d8dd166ae127752039756e0c6e6767d3500b189"
+			},
+			"/assets/minecraft/optifine/cit/totems/green_zero/green_zero.properties": {
+				"hash": "1a0d4ad2badd073eab7488fccf9d50e67feebb3f"
+			},
+			"/assets/minecraft/optifine/cit/totems/ichtwere/ichtwere.png": {
+				"hash": "0751338c4a3623ea47f7604d388031ebe163c3ed"
+			},
+			"/assets/minecraft/optifine/cit/totems/ichtwere/ichtwere.properties": {
+				"hash": "641c5234445ed307792399761a3649e3c953a792"
+			},
+			"/assets/minecraft/optifine/cit/totems/jamoso_/jamoso_.png": {
+				"hash": "3320684976a810a1d2d7ada5c8fbf0a8e9b5c06f"
+			},
+			"/assets/minecraft/optifine/cit/totems/jamoso_/jamoso_.properties": {
+				"hash": "acc092649019685609a89fd05cdcbd92c24b09c8"
+			},
+			"/assets/minecraft/optifine/cit/totems/jarmexx/jarmexx.png": {
+				"hash": "938b1d4e71a5ca5e5f86c0392699f261cea78b80"
+			},
+			"/assets/minecraft/optifine/cit/totems/jarmexx/jarmexx.properties": {
+				"hash": "75d90f5bca0109fc1b092e7773c84b730937c6ea"
+			},
+			"/assets/minecraft/optifine/cit/totems/kamiliv/kamiliv.png": {
+				"hash": "ae461007d50d5b5313b3b2cc678947285f7407dd"
+			},
+			"/assets/minecraft/optifine/cit/totems/kamiliv/kamiliv.properties": {
+				"hash": "392771009ac54928149e81f3ce720dc10dc345fc"
+			},
+			"/assets/minecraft/optifine/cit/totems/klermy/klermy.png": {
+				"hash": "141523deb69430274bfa51cab7dadd853609527c"
+			},
+			"/assets/minecraft/optifine/cit/totems/klermy/klermy.properties": {
+				"hash": "4529b1a7c2a44e4fabca813060d2e04949645000"
+			},
+			"/assets/minecraft/optifine/cit/totems/kunach/kunach.png": {
+				"hash": "a58893f06d5a11c9d6bffdaf759399105728c56c"
+			},
+			"/assets/minecraft/optifine/cit/totems/kunach/kunach.properties": {
+				"hash": "d216936210869bf03b43eff0b52803d3068bad1a"
+			},
+			"/assets/minecraft/optifine/cit/totems/medvdv/medvdv.png": {
+				"hash": "7330490de3d14860121c3429abdbf59b01206e55"
+			},
+			"/assets/minecraft/optifine/cit/totems/medvdv/medvdv.properties": {
+				"hash": "829e32ca0236550bad8737f298b555c9489f0aa6"
+			},
+			"/assets/minecraft/optifine/cit/totems/noellemain/noellemain.png": {
+				"hash": "a31844beba8655c858d5f7273b757ad5df34df78"
+			},
+			"/assets/minecraft/optifine/cit/totems/noellemain/noellemain.properties": {
+				"hash": "60906687bb0cbd10a5fcfd192883bf7a9fdac928"
+			},
+			"/assets/minecraft/optifine/cit/totems/ottyss/ottyss.png": {
+				"hash": "09b56895ac7e81de259f34d6f38ee9a9cc4fdb96"
+			},
+			"/assets/minecraft/optifine/cit/totems/ottyss/ottyss.properties": {
+				"hash": "019eebb43950b1044dafaf5c545e54cbc3081b21"
+			},
+			"/assets/minecraft/optifine/cit/totems/perkov/perkov.png": {
+				"hash": "13159dabc6eaccd3875af7a408c62dbb6325e6f9"
+			},
+			"/assets/minecraft/optifine/cit/totems/perkov/perkov.properties": {
+				"hash": "11fe417cb19c24cf96898dde90d911963a4a307c"
+			},
+			"/assets/minecraft/optifine/cit/totems/rconidze/rconidze.png": {
+				"hash": "62b955156cb78f9bb663297ffa41ba3156d57f16"
+			},
+			"/assets/minecraft/optifine/cit/totems/rconidze/rconidze.properties": {
+				"hash": "62900e02dd7526557a38f31fcae9d1474aac9a5b"
+			},
+			"/assets/minecraft/optifine/cit/totems/re1ron/re1ron.png": {
+				"hash": "090c0fe6428ad6ee99f187605ca2039fccf40588"
+			},
+			"/assets/minecraft/optifine/cit/totems/re1ron/re1ron.properties": {
+				"hash": "46a46ddafe9e2a2f771fce06e8259f27543c7997"
+			},
+			"/assets/minecraft/optifine/cit/totems/rero_ton/rero_ton.png": {
+				"hash": "f75d0e65d0e05965d36a76facf12a7e6bb0c71f5"
+			},
+			"/assets/minecraft/optifine/cit/totems/rero_ton/rero_ton.properties": {
+				"hash": "493076098e14f9da76206f6b461fabfb8006d897"
+			},
+			"/assets/minecraft/optifine/cit/totems/sashamaks/sashamaks.png": {
+				"hash": "6e3ff095594c52e326b55d1a3b673bd55efcdcbc"
+			},
+			"/assets/minecraft/optifine/cit/totems/sashamaks/sashamaks.properties": {
+				"hash": "01d0413bd8b6263e2197188f59968ef6747e0b97"
+			},
+			"/assets/minecraft/optifine/cit/totems/shurshick/shurshick.png": {
+				"hash": "7e51dd08dcad6d733a5ebc9f076a73ae3548a2e8"
+			},
+			"/assets/minecraft/optifine/cit/totems/shurshick/shurshick.properties": {
+				"hash": "6d4acf51baa03f6770081373df238d85a93c8ccd"
+			},
+			"/assets/minecraft/optifine/cit/totems/sidroed/sidroed.png": {
+				"hash": "93238a1e5a6dd56f96f578a75b130de0886b6b1d"
+			},
+			"/assets/minecraft/optifine/cit/totems/sidroed/sidroed.properties": {
+				"hash": "bc54b1c4a0d3ef2ed90dfa3ad85638bba0b85add"
+			},
+			"/assets/minecraft/optifine/cit/totems/teyrine/teyrine.png": {
+				"hash": "ee809c12d795ac03e88d74c69697a5ff544fb50b"
+			},
+			"/assets/minecraft/optifine/cit/totems/teyrine/teyrine.properties": {
+				"hash": "e36a95820fafa82442d3f5aa0e6d8fc210211133"
+			},
+			"/assets/minecraft/optifine/cit/totems/twennnn/twennnn.png": {
+				"hash": "521caec52fb2559897e4558d1b120df281b23e46"
+			},
+			"/assets/minecraft/optifine/cit/totems/twennnn/twennnn.properties": {
+				"hash": "1ae82dd4b376651621bb33cb4d23573f67bd2886"
+			},
+			"/assets/minecraft/optifine/cit/totems/vikss/vikss_.png": {
+				"hash": "a0dffc5fc74605fbb0e101bcd9c90bfbb7d2addb"
+			},
+			"/assets/minecraft/optifine/cit/totems/vikss/vikss_.properties": {
+				"hash": "278c76d371be44cda8da8205614e9bb386ded0a3"
+			},
+			"/assets/minecraft/optifine/cit/totems/xelanex/xelanex.png": {
+				"hash": "bc2f6f91001ae74e09a3984bf5b7a02dabc962fd"
+			},
+			"/assets/minecraft/optifine/cit/totems/xelanex/xelanex.properties": {
+				"hash": "d14bd2a83ab48e6df800bddb281bfa0d106e886b"
+			},
+			"/assets/minecraft/optifine/cit/totems/z3fir1/z3fir1.png": {
+				"hash": "65453ef0b23612004aa153fe7cbb5c988401efff"
+			},
+			"/assets/minecraft/optifine/cit/totems/z3fir1/z3fir1.properties": {
+				"hash": "57c4b7ee66bc60a1625bda590822ecad96d1203b"
+			},
+			"/assets/minecraft/optifine/cit/totems/_deniska/_deniska.png": {
+				"hash": "1740b2ad1ee7563b01515800540decf6e6760a07"
+			},
+			"/assets/minecraft/optifine/cit/totems/_deniska/_deniska.properties": {
+				"hash": "e9953cb7bbc68207f389282534d610d7f17b3478"
+			}
+		}
+	}
+}
