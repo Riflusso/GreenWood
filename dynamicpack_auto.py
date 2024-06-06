@@ -9,16 +9,16 @@ DDEBUG = False
 
 
 import argparse
+
 parser = argparse.ArgumentParser(description='DynamicPack')
 parser.add_argument('--mode', type=str, default="no_default", help='Automatically mode')
 args = parser.parse_args()
 
 
+import hashlib
 import json
 import os
-import hashlib
 from pathlib import Path
-
 
 jrepo = None      # dynamicmcpack.repo.json content
 contents = {}
@@ -40,7 +40,11 @@ convert_line_ending_rules = {
     ".fsh": True,
     ".vsh": True,
     ".lang": True,
-    ".DS_Store": False
+    ".DS_Store": False,
+    ".blend": True,
+    "desktop.ini": False,
+    ".properties.disabled": True,
+    ".gltf": True
 }
 
 

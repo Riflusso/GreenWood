@@ -4,9 +4,6 @@
 		"parent": "",
 		"remote_parent": "GreenWood",
 		"files": {
-			"/content.json": {
-				"hash": "d0d2bd292d2891b178210d24c39918a00391a9ac"
-			},
 			"/dynamicmcpack.json": {
 				"hash": "34e5979c33c85dcd6cbfc9fdbef426fa1dbdfeec"
 			},
