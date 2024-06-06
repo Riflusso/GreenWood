@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "assets/minecraft/optifine/cit/card/card",
-		"particle": "assets/minecraft/optifine/cit/card/card"
+		"0": "assets/minecraft/optifine/cit/bunker/card/card",
+		"particle": "assets/minecraft/optifine/cit/bunker/card/card"
 	},
 	"elements": [
 		{

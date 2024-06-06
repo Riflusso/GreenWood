@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "assets/minecraft/optifine/cit/backpack/backpack",
-		"particle": "assets/minecraft/optifine/cit/backpack/backpack"
+		"0": "assets/minecraft/optifine/cit/bunker/backpack/backpack",
+		"particle": "assets/minecraft/optifine/cit/bunker/backpack/backpack"
 	},
 	"elements": [
 		{

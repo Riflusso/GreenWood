@@ -2,8 +2,8 @@
 	"credit": "SashaMaks",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "assets/minecraft/optifine/cit/posox/posox",
-		"particle": "assets/minecraft/optifine/cit/posox/posox"
+		"0": "assets/minecraft/optifine/cit/bunker/posox/posox",
+		"particle": "assets/minecraft/optifine/cit/bunker/posox/posox"
 	},
 	"elements": [
 		{

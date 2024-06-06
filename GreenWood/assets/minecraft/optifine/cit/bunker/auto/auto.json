@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "assets/minecraft/optifine/cit/auto/auto",
-		"particle": "assets/minecraft/optifine/cit/auto/auto"
+		"3": "assets/minecraft/optifine/cit/bunker/auto/auto",
+		"particle": "assets/minecraft/optifine/cit/bunker/auto/auto"
 	},
 	"elements": [
 		{
