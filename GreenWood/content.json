@@ -4,11 +4,14 @@
 		"parent": "",
 		"remote_parent": "GreenWood",
 		"files": {
-			"/pack.png": {
-				"hash": "2108f7c4c010c7384bbafc62fc65189c30f9c6a7"
+			"/dynamicmcpack.json": {
+				"hash": "34e5979c33c85dcd6cbfc9fdbef426fa1dbdfeec"
 			},
 			"/pack.mcmeta": {
 				"hash": "77d8f8a96c5f7b5f0fe860bfba152a363d8f4f6b"
+			},
+			"/pack.png": {
+				"hash": "2108f7c4c010c7384bbafc62fc65189c30f9c6a7"
 			},
 			"/assets/minecraft/optifine/emissive.properties": {
 				"hash": "577d89738e60ebfbf2dbbdd5b2ff2c3400933a10"
