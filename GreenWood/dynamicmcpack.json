@@ -1,9 +1,9 @@
 {
-  "current": {},
-  "remote": {
-	"sign_no_required": true,
-    "type": "dynamic_repo",
-    "url": "https://riflusso.github.io/GreenWood/"
-  },
-  "formatVersion": 1
+	"current": {},
+	"remote": {
+		"sign_no_required": true,
+		"type": "dynamic_repo",
+		"url": "https://riflusso.github.io/GreenWood/"
+	},
+	"formatVersion": 1
 }
