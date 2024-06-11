@@ -1,11 +1,11 @@
 {
 	"formatVersion": 1,
-	"build": 18,
+	"build": 19,
 	"name": "GreenWood",
 	"contents": [
 		{
 			"url": "GreenWood/content.json",
-			"hash": "f820302f10b7b740d80447cd67cb807a711bc510",
+			"hash": "f72b15c86adc9b7cdb325823fe6d7184a0f2f551",
 			"id": "pack",
 			"required": true,
 			"name": "GreenWood"
