@@ -580,14 +580,6 @@
 				"hash": "687023cdad46dca50feba5d66ea3314086282cae",
 				"size": 97
 			},
-			"assets/minecraft/optifine/cit/totems/shurshick/shurshick.png": {
-				"hash": "7e51dd08dcad6d733a5ebc9f076a73ae3548a2e8",
-				"size": 484
-			},
-			"assets/minecraft/optifine/cit/totems/shurshick/shurshick.properties": {
-				"hash": "1af47d7dc1f00c53e6a6ab0286204c088bed3452",
-				"size": 97
-			},
 			"assets/minecraft/optifine/cit/totems/sidroed/sidroed.png": {
 				"hash": "93238a1e5a6dd56f96f578a75b130de0886b6b1d",
 				"size": 419
@@ -643,6 +635,14 @@
 			"assets/minecraft/optifine/cit/totems/_deniska/_deniska.properties": {
 				"hash": "2f9c019be4c0a5878bb5d4738643bb5368af0266",
 				"size": 95
+			},
+			"assets/minecraft/optifine/cit/totems/_shure/_shure.png": {
+				"hash": "456b91b17aab071d60607df335d680ddd023986b",
+				"size": 501
+			},
+			"assets/minecraft/optifine/cit/totems/_shure/_shure.properties": {
+				"hash": "86be7cfd6ab9f1b3eeac998b5a9b8bf7b974c912",
+				"size": 91
 			}
 		}
 	}
