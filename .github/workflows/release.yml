@@ -1,0 +1,38 @@
+name: Create Release
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+      - 'CHANGELOG.md'
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Read version from dynamicmcpack.repo.build
+        id: get_version
+        run: echo "BUILD_VERSION=$(cat dynamicmcpack.repo.build)" >> $GITHUB_ENV
+
+      - name: Read CHANGELOG.md
+        id: get_changelog
+        run: echo "CHANGELOG_CONTENT=$(cat CHANGELOG.md)" >> $GITHUB_ENV
+
+      - name: Create ZIP archive
+        run: zip -r GreenWood.zip GreenWood/
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: 0.${{ env.BUILD_VERSION }}
+          name: Release 0.${{ env.BUILD_VERSION }}
+          body: ${{ env.CHANGELOG_CONTENT }}
+          files: GreenWood.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
