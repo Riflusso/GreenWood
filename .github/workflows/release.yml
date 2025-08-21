@@ -24,7 +24,9 @@ jobs:
         run: echo "BUILD_VERSION=$(cat dynamicmcpack.repo.build)" >> $GITHUB_ENV
 
       - name: Create ZIP archive
-        run: zip -r GreenWood.zip GreenWood/
+        run: |
+          cd GreenWood
+          zip -r ../GreenWood.zip ./*
 
       - name: Create CHANGELOG.md for release body
         run: cat CHANGELOG.md > RELEASE_CHANGELOG.md
