@@ -124,6 +124,22 @@
 				"hash": "4e96d503def28eb9dc27e96a021b8dd18620be70",
 				"size": 117
 			},
+			"assets/minecraft/optifine/cit/mafia/putana/putana.png": {
+				"hash": "077b8358ed58dbd7e4aec7f5cf8a468415a94fb5",
+				"size": 1442
+			},
+			"assets/minecraft/optifine/cit/mafia/putana/putana.properties": {
+				"hash": "d825b625a51f89741574152dfce572bd67b73049",
+				"size": 116
+			},
+			"assets/minecraft/optifine/cit/mafia/komis/komisar.png": {
+				"hash": "e64b9c3a9cead9df567916f5f00f3e8c2e930a62",
+				"size": 1246
+			},
+			"assets/minecraft/optifine/cit/mafia/komis/komisar.properties": {
+				"hash": "c31f42a966aa376739da5cbd1b0117fff6c6fc66",
+				"size": 129
+			},
 			"assets/minecraft/optifine/cit/posters/chbd/chbd.json": {
 				"hash": "2a5c918a1316535f17db37c33d119e4cf17e5c5d",
 				"size": 1129
