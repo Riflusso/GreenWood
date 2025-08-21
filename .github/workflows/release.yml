@@ -20,19 +20,18 @@ jobs:
         id: get_version
         run: echo "BUILD_VERSION=$(cat dynamicmcpack.repo.build)" >> $GITHUB_ENV
 
-      - name: Read CHANGELOG.md
-        id: get_changelog
-        run: echo "CHANGELOG_CONTENT=$(cat CHANGELOG.md)" >> $GITHUB_ENV
-
       - name: Create ZIP archive
         run: zip -r GreenWood.zip GreenWood/
+
+      - name: Create CHANGELOG.md for release body
+        run: cat CHANGELOG.md > RELEASE_CHANGELOG.md
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: 0.${{ env.BUILD_VERSION }}
           name: Release 0.${{ env.BUILD_VERSION }}
-          body: ${{ env.CHANGELOG_CONTENT }}
+          body_path: RELEASE_CHANGELOG.md
           files: GreenWood.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
