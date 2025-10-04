@@ -1,0 +1,27 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "greenwood:item/hats/dog"
+				},
+				"when": "Dog"
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "greenwood:item/hats/snejik"
+				},
+				"when": "Ушки снежика"
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:block/carved_pumpkin"
+		}
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "greenwood:item/mafia/doctor"
+				},
+				"when": "Доктор"
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "greenwood:item/mafia/mafia"
+				},
+				"when": "Мафия"
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "greenwood:item/mafia/sherif"
+				},
+				"when": "Шериф"
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "greenwood:item/mafia/village"
+				},
+				"when": "Житель"
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "greenwood:item/mafia/putana"
+				},
+				"when": "Путана"
+			},
+			{
+				"model": {
+					"type": "minecraft:model",
+					"model": "greenwood:item/mafia/komisar"
+				},
+				"when": "Комиссар"
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/paper"
+		}
+	}
+}
